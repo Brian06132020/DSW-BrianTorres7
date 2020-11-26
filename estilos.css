@@ -1,0 +1,15 @@
+h2{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    font-family: cursive;
+    justify-content: center;
+}
+
+.claseparajustificar{
+    background-color: yellow;
+    padding: 20px;
+    text-align: justify;
+}
